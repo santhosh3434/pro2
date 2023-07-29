@@ -1,0 +1,3 @@
+a = santhosh
+b = elango
+print (a+b)
